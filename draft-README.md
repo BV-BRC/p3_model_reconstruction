@@ -20,6 +20,7 @@ This module provides the following application specfication(s):
 
 ## See also
 
+* [Model Reconstruction Service Quick Reference](https://www.bv-brc.org/docs/quick_references/services/model_reconstruction_service.html)
 * [Model Reconstruction Service](https://www.bv-brc.org/docs/https://bv-brc.org/app/Reconstruct.html)
 * [Metabolic Model Reconstruction Service Tutorial](https://www.bv-brc.org/docs//tutorial/metabolic_model_reconstruction/metabolic_model_reconstruction.html)
 
