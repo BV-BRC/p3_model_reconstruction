@@ -4,6 +4,8 @@
 
 The bacterial Model Reconstruction Service integrates and augments technologies for genome annotation, construction of gene-protein-reaction (GPR) associations, generation of biomass reactions, reaction network assembly, thermodynamic analysis of reaction reversibility, and model optimization, to generate draft genome-scale metabolic models. The service is capable of generating functioning draft metabolic models of an organism starting from an assembled genome sequence. Additional information is available in [High-throughput generation, optimization and analysis of genome-scale metabolic models](https://www.nature.com/nbt/journal/v28/n9/full/nbt.1672.html).
 
+This service is no longer supported on the BV-BRC website.
+
 
 
 ## About this module
@@ -21,7 +23,7 @@ This module provides the following application specfication(s):
 ## See also
 
 * [Model Reconstruction Service Quick Reference](https://www.bv-brc.org/docs/quick_references/services/model_reconstruction_service.html)
-* [Model Reconstruction Service](https://www.bv-brc.org/docs/https://bv-brc.org/app/Reconstruct.html)
+* [Model Reconstruction Service](https://bv-brc.org/app/Reconstruct.html)
 * [Metabolic Model Reconstruction Service Tutorial](https://www.bv-brc.org/docs//tutorial/metabolic_model_reconstruction/metabolic_model_reconstruction.html)
 
 
